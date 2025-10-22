@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Mobile Development
 - 📫 How to reach me dtuniq@gmail.com
 
-<!---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dtuniq/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dtuniq@gmail.com) 
@@ -25,4 +25,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
---->
